@@ -30,7 +30,7 @@
     </section>
 
     <section class="other-page" >
-      <!-- slider-item-1 -->
+      <!-- slider-item-1  test -->
       <div class="container h-100">
         <div class="row">
           <div class="col-lg-6 col-md-8 col-sm-8 col-12 col-sm-8 col-12 mt-5 mb-5 m-auto">
