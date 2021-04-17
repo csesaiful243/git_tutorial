@@ -25,7 +25,7 @@
     </section>
 
 
-      <!-- slider-item-1 -->
+      <!-- slider-item-1  change -->
       <div class="">
          <img src="<?php echo base_url('assets_front/'); ?>images/about_us.png" alt="Image" class="img-fluid mb-5 mx-auto d-block" style="width:100%;" >
       </div>
